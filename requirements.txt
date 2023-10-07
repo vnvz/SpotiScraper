@@ -1,4 +1,6 @@
 spotipy
 requests
-youtube-dl
-json
+yt-dlp
+youtube-search
+ffmpeg
+ffprobe
