@@ -1,3 +1,5 @@
 .json
 config.json
 playlist_data.json
+env_SpotiScraper
+__pycache__
